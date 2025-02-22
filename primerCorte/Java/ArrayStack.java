@@ -1,5 +1,3 @@
-package estructuraDatosLineales;
-
 public class ArrayStack<T> {
 	private T[] stack;
 	private int head;
