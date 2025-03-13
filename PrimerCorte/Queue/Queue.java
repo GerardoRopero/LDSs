@@ -1,3 +1,5 @@
+package estructuraDatosLineales;
+
 public class Queue<T> {
 	private Node<T> head;
 	private Node<T> tail;
